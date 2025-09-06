@@ -1,0 +1,25 @@
+HTTP request sent, awaiting response... 200 OK
+Length: 1275936 (1.2M) [application/octet-stream]
+Saving to: ‘physionet.org/files/eegmmidb/1.0.0/S025/S025R02.edf’
+
+
+
+2025-09-04 11:32:33 (340 KB/s) - ‘physionet.org/files/eegmmidb/1.0.0/S025/S025R02.edf’ saved [1275936/1275936]
+
+--2025-09-04 11:32:33--  https://physionet.org/files/eegmmidb/1.0.0/S025/S025R02.edf.event
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38 [text/plain]
+Saving to: ‘physionet.org/files/eegmmidb/1.0.0/S025/S025R02.edf.event’
+
+
+
+2025-09-04 11:32:34 (19.9 MB/s) - ‘physionet.org/files/eegmmidb/1.0.0/S025/S025R02.edf.event’ saved [38/38]
+
+--2025-09-04 11:32:34--  https://physionet.org/files/eegmmidb/1.0.0/S025/S025R03.edf
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2555616 (2.4M) [application/octet-stream]
+Saving to: ‘physionet.org/files/eegmmidb/1.0.0/S025/S025R03.edf’
+
+25/S025R03.edf       89%[================>   ]   2.19M  84.7KB/s    eta 2s     5/S025R03.edf        89%[================>   ]   2.19M  78.0KB/s    eta 2s     
